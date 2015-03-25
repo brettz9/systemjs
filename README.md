@@ -140,7 +140,7 @@ System.import('file.css!text');  // will use the "text" plugin, instead of check
 
 [Read the guide here on creating plugins](https://github.com/systemjs/systemjs/wiki/Creating-a-Plugin).
 
-#### Running the tests
+### Running the tests
 
 To install the dependencies correctly, run `bower install` from the root of the repo, then open `test/test.html` in a browser with a local server
 or file access flags enabled.
